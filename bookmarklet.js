@@ -1,0 +1,1 @@
+javascript:document.getElementById("reviewers").value="user1|!|user2";document.getElementById("submit-form").click();void(0);
